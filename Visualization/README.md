@@ -14,3 +14,8 @@ Draw a scatter plot of the temperature distribution in March and October.
 
 Relevant code [here](./Weather/Scatter.py).
 ![Scatter](./Weather/Scatter.png)
+## 2019 Movie Box Office
+Use `Matplotlib` to draw bar charts to visualize 2019 movie box office data.
+
+Relevant code [here](./Movies/Bar1.py).
+![Bar](./Movies/Movie.png)
