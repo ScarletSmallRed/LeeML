@@ -9,3 +9,8 @@ y1 = [random.randint(20, 35) for i in range(0, 120, 3)]
 y2 = [random.randint(20, 35) for i in range(0, 120, 3)]
 ```
 ![Line Chart](./TemperatureChange/tempearture.png)
+## Weather Scatter
+Draw a scatter plot of the temperature distribution in March and October.
+
+Relevant code [here](./Weather/Scatter.py).
+![Scatter](./Weather/Scatter.png)
