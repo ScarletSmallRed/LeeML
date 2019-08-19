@@ -19,3 +19,8 @@ Use `Matplotlib` to draw bar charts to visualize 2019 movie box office data.
 
 Relevant code [here](./Movies/Bar1.py).
 ![Bar](./Movies/Movie.png)
+## Three Days Movies Box Office
+Draw multiple bar charts to show box office information for several movies in three days.
+
+Relevant code [here](./Movies2/Bar.py).
+![Bar](./Movies2/Movies.png)
