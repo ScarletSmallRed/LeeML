@@ -24,3 +24,8 @@ Draw multiple bar charts to show box office information for several movies in th
 
 Relevant code [here](./Movies2/Bar.py).
 ![Bar](./Movies2/Movies.png)
+## Movies Duration Distribution 
+Draw a histogram to analyze the distribution of the duration of 1000 movies.
+
+Relevant code [here](./MovieDuration/Hist.py).
+![Hist](./MovieDuration/MovieDuration.png)
