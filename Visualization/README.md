@@ -29,3 +29,8 @@ Draw a histogram to analyze the distribution of the duration of 1000 movies.
 
 Relevant code [here](./MovieDuration/Hist.py).
 ![Hist](./MovieDuration/MovieDuration.png)
+## IMDB
+Use the two Python libraries `numpy` and `pandas` to analyze the distribution of movie types in the 1,000 movies of IMDB.
+
+Relevant code [here](./IMDB/IMDB.py)
+![IMDB](./IMDB/IMDB1.png)
