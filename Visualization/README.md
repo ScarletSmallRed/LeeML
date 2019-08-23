@@ -32,5 +32,15 @@ Relevant code [here](./MovieDuration/Hist.py).
 ## IMDB
 Use the two Python libraries `numpy` and `pandas` to analyze the distribution of movie types in the 1,000 movies of IMDB.
 
-Relevant code [here](./IMDB/IMDB.py)
+Relevant code [here](./IMDB/IMDB.py).
 ![IMDB](./IMDB/IMDB1.png)
+## Starbucks
+Use the method `groupby` in the `pandas` library to count the number of Starbucks in each country.
+
+Relevant code [here](./Starbucks/chart1.py).
+![chart1](./Starbucks/chart1.png)
+
+Count the number of Starbucks in the major cities of the United States.
+
+Relevant code [here](./Starbucks/chart2.py).
+![chart2](./Starbucks/chart2.png)
