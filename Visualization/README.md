@@ -34,6 +34,12 @@ Use the two Python libraries `numpy` and `pandas` to analyze the distribution of
 
 Relevant code [here](./IMDB/IMDB.py).
 ![IMDB](./IMDB/IMDB1.png)
+
+Analyze the distribution of movie durations in the IMBD movie list.
+
+Relevant code [here](./IMDB/IMBD2.py).
+
+![IMBD2](./IMDB/IMBD2.png)
 ## Starbucks
 Use the method `groupby` in the `pandas` library to count the number of Starbucks in each country.
 
@@ -98,6 +104,6 @@ The time period for this data is between Jan 1st, 2010 to Dec 31st, 2015. Missin
 
 Analyze the average PM2.5 change in Beijing every month.
 
-Relevant code [here](./PM25/chart.py).
+Key point: **PeriodIndex** and relevant code [here](./PM25/chart.py).
 
 ![chart](./PM25/chart.png)
