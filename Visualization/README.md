@@ -44,3 +44,28 @@ Count the number of Starbucks in the major cities of the United States.
 
 Relevant code [here](./Starbucks/chart2.py).
 ![chart2](./Starbucks/chart2.png)
+## Books
+The annual average rating change trend of books.
+
+Relevant code [here](./Books/chart.py).
+![chart](./Books/chart.png)
+## Emergency (911) Calls
+Csv [file](./911/911.csv) description: Fire, Traffic, EMS for Montgomery County, PA 
+
+Analyze the total number of calls for three types of emergency calls.
+
+Relevant code [here](./911/chart.py).
+
+![chart](./911/chart.png)
+
+Analyze the changes in the number of calls for emergency calls per month.
+
+Relevant code [here](./911/chart2.py).
+
+![chart2](./911/chart2.png)
+
+Analyze the changes in the number of calls for three types of emergency calls per month.
+
+Relevant code [here](./911/chart3.py).
+
+![chart3](./911/chart3.png).
